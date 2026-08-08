@@ -101,7 +101,7 @@
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/DraconicChronicles/Dino/TidalDragon/TidalDragonBP.TidalDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/TidalDragon/TidalDragon_BP.TidalDragon_BP_C",
 	"chancetodrop": 0.3
 },
 {
@@ -175,7 +175,7 @@
 	"chancetodrop": 0.5
 },
 {
-	"dino": "/RunicWyverns/Dinos/Venom/Runic_Wyvern_Character_BP_Venom_C.Runic_Wyvern_Character_BP_Venom_C",
+	"dino": "/RunicWyverns/DinoEntries/RunicVenomWyvern/Runic_Wyvern_Character_BP_Venom-V2.Runic_Wyvern_Character_BP_Venom-V2_C",
 	"chancetodrop": 0.5
 },
 {
@@ -187,11 +187,11 @@
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/RW_Charater_BP_HaloWyvern_C",
+	"dino": "/RunicWyverns/DinoEntries/RunicWyvern/RW_Character_BP_HaloWyvern.RW_Character_BP_HaloWyvern_C",
 	"chancetodrop": 0.4
 },
 {
-	"dino": "/RW_Charater_BP_HaloWyvern_Lantern_C",
+	"dino": "/RunicWyverns/DinoEntries/RunicHaloWyvern/RW_Character_BP_HaloWyvern_Lantern.RW_Character_BP_HaloWyvern_Lantern_C",
 	"chancetodrop": 0.6
 },
 {
