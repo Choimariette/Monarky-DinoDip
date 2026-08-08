@@ -77,51 +77,51 @@
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/DraconicChronicles/Dino/InfernoWyvern/InfernoWyvernBP_C.InfernoWyvernBP_C",
+	"dino": "/DraconicChronicles/Dino/InfernoWyvern/InfernoWyvernBP.InfernoWyvernBP_C",
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/DraconicChronicles/Dino/RejuvenatingDragon/RejuvenatingDragonBP_C.RejuvenatingDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/RejuvenatingDragon/RejuvenatingDragonBP.RejuvenatingDragonBP_C",
 	"chancetodrop": 0.4
 },
 {
-	"dino": "/DraconicChronicles/Dino/SandDragon/SandDragonBP_C.SandDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/SandDragon/SandDragonBP.SandDragonBP_C",
 	"chancetodrop": 0.5
 },
 {
-	"dino": "/DraconicChronicles/Dino/BloodstormDragon/BloodstormDragonBP_C.BloodstormDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/BloodstormDragon/BloodstormDragonBP.BloodstormDragonBP_C",
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/DraconicChronicles/Dino/Wyrm/WyrmBP_C.WyrmBP_C",
+	"dino": "/DraconicChronicles/Dino/Wyrm/WyrmBP.WyrmBP_C",
 	"chancetodrop": 0.6
 },
 {
-	"dino": "/DraconicChronicles/Dino/FlameforgeDragon/FlameforgeDragonBP_C.FlameforgeDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/FlameforgeDragon/FlameforgeDragonBP.FlameforgeDragonBP_C",
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/DraconicChronicles/Dino/TidalDragon/TidalDragon_BP_C.TidalDragon_BP_C",
+	"dino": "/DraconicChronicles/Dino/TidalDragon/TidalDragonBP.TidalDragonBP_C",
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/DraconicChronicles/Dino/Wyvernicorn/Wyvernicorn_BP_C.Wyvernicorn_BP_C",
+	"dino": "/DraconicChronicles/Dino/Wyvernicorn/Wyvernicorn_BP.Wyvernicorn_BP_C",
 	"chancetodrop": 0.2
 },
 {
-	"dino": "/DraconicChronicles/Dino/HydroDragon/HydroDragonBP_C.HydroDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/HydroDragon/HydroDragonBP.HydroDragonBP_C",
 	"chancetodrop": 0.2
 },
 {
-	"dino": "/DraconicChronicles/Dino/DragokinBrawler/DragokinBrawlerBP_C.DragokinBrawlerBP_C",
+	"dino": "/DraconicChronicles/Dino/DragokinBrawler/DragokinBrawlerBP.DragokinBrawlerBP_C",
 	"chancetodrop": 0.5
 },
 {
-	"dino": "/DraconicChronicles/Dino/GlowveilDragon/GlowveilDragonBP_C.GlowveilDragonBP_C",
+	"dino": "/DraconicChronicles/Dino/GlowveilDragon/GlowveilDragonBP.GlowveilDragonBP_C",
 	"chancetodrop": 0.4
 },
 {
-	"dino": "/DraconicChronicles/Dino/Dragonkin/DragonkinBP_C.DragonkinBP_C",
+	"dino": "/DraconicChronicles/Dino/Dragonkin/DragonkinBP.DragonkinBP_C",
 	"chancetodrop": 0.5
 
 					},
@@ -179,7 +179,7 @@
 	"chancetodrop": 0.5
 },
 {
-	"dino": "/RunicWyverns/Dinos/Glacial/Runic_Wyvern_Character_BP_Glacial-V2_C.Runic_Wyvern_Character_BP_Glacial-V2_C",
+	"dino": "/Runic_Wyvern_Character_BP_Glacial-V2_C",
 	"chancetodrop": 0.5
 },
 {
@@ -187,11 +187,11 @@
 	"chancetodrop": 0.3
 },
 {
-	"dino": "/RunicWyverns/Dinos/Halo/RW_Charater_BP_HaloWyvern_C.RW_Charater_BP_HaloWyvern_C",
+	"dino": "/RW_Charater_BP_HaloWyvern_C",
 	"chancetodrop": 0.4
 },
 {
-	"dino": "/RunicWyverns/Dinos/HaloLantern/RW_Charater_BP_HaloWyvern_Lantern_C.RW_Charater_BP_HaloWyvern_Lantern_C",
+	"dino": "/RW_Charater_BP_HaloWyvern_Lantern_C",
 	"chancetodrop": 0.6
 },
 {
